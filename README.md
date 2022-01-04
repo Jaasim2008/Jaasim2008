@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jaasim
-- 👀 I’m interested in Java Coding
-- 🌱 I’m currently learning Java
-- 📫 You can Reach Me on Discord RaziO#8963
+- 👀 I’m interested in Python Software Creation
+- 🌱 I’m currently Tkinter ( python )
+- 📫 You can Reach Me on Discord Jaazim#8963
 
 <!---
 Jaasim2008/Jaasim2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
